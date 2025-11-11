@@ -21,14 +21,3 @@ It uses a clean, step-by-step structure — from data loading and exploration to
 - **Visualization Support:** Matplotlib and Seaborn plots integrated.
 - **Streamlit-Ready:** Can be connected to a simple front-end later for interactive predictions.
 
----
-
-## Folder Structure
-Multi_Predicto/
-│
-├── data/ # Datasets (CSV files)
-├── notebooks/ # Jupyter notebooks
-├── models/ # Saved trained models (.pkl files)
-├── scripts/ # Python scripts (training, evaluation)
-├── README.md
-└── requirements.txt
